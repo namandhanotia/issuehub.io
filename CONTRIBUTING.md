@@ -16,3 +16,5 @@ Syntax:
 * a = b and not a=b.
 * aim for 1.9 hash syntax - `{ dog: "Akira" }` rather than `{ :dog => "Akira" }`
 * follow the conventions you see used in the source already.
+
+## Go ahead and make your contribution ##
